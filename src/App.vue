@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    Git Tips
+    Git-Tips
   </div>
 </template>
 
